@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package boletin2_2;
+import java.util.Scanner;
 
 /**
  *
